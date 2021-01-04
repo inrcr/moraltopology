@@ -2,7 +2,15 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"MoralTopology": "00_core.ipynb"}
+index = {"MoralTopology": "00_core.ipynb",
+         "on_click_upload": "00_core.ipynb",
+         "on_submit": "00_core.ipynb",
+         "btn_upload": "00_core.ipynb",
+         "btn_submit": "00_core.ipynb",
+         "out_pl": "00_core.ipynb",
+         "data_name": "00_core.ipynb",
+         "data_label": "00_core.ipynb",
+         "dataset": "00_core.ipynb"}
 
 modules = ["core.py"]
 
