@@ -12,13 +12,13 @@ This file will become your README and also the index of your documentation.
 
 Start by creating a `MoralTopology` object with your name and data.
 
-```python
+```
 mt = MoralTopology(name="Vishal Bakshi", data={})
 ```
 
 You can access the data with `.data`:
 
-```python
+```
 mt.data
 ```
 
@@ -31,7 +31,7 @@ mt.data
 
 You can access your name with `.name`
 
-```python
+```
 mt.name
 ```
 
@@ -44,7 +44,7 @@ mt.name
 
 You can print your name (read-only) with `.username()`
 
-```python
+```
 mt.username()
 ```
 
